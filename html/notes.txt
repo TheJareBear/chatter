@@ -1,0 +1,7 @@
+NOTES FOR CHATTER BOX:
+
+	-	Timezone set for chatbox
+	-	More chat rooms
+	-	See whos online
+	-	Friend Requests
+	-	Private Messages
